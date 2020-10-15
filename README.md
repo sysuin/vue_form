@@ -8,7 +8,7 @@ git clone https://github.com/sunnysinghnitb/vue_form.git'
 
 ### Install dependencies
 ```
-Vue.use(VueStepWizard)
+npm install
 ```
 
 ### Run locally
